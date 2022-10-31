@@ -1,5 +1,5 @@
 export default function Index() {
     return (
-        <h1>The Starting Page</h1>
+        <h1>🏡 The Home Page</h1>
     )
 }

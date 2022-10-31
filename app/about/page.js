@@ -1,5 +1,5 @@
-export default function Home() {
+export default function About() {
     return (
-        <h1>The About Page</h1>
+        <h1>📘 The About Page</h1>
     )
 }
